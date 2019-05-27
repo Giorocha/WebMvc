@@ -1,5 +1,6 @@
 using Hamburgueria.MVC.Models;
 using Hamburgueria.MVC.Repositorios;
+using Hamburgueria.MVC.ViewModels;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -7,9 +8,19 @@ namespace Hamburgueria.MVC.Controllers {
     public class PedidoController : Controller {
         private PedidoRepositorio Repositorio = new PedidoRepositorio();
 
+        private HamburguerRepositorio hamburguerRepositorio = new HamburguerRepositorio();
+
+        private ShakeRepositorio shakeRepositorio = new ShakeRepositorio();
+
         [HttpGet]
         public IActionResult Index () {
-            return View ();
+            var hamburgueres = hamburguerRepositorio.Listar();
+            var shakes = shakeRepositorio.Listar();
+
+            PedidoViewModel pedido = new PedidoViewModel();
+            pedido.Hamburgueres = hamburgueres;
+            pedido.Shakes = shakes;
+            return View (pedido);
         }
 
         [HttpPost]
@@ -33,21 +44,27 @@ namespace Hamburgueria.MVC.Controllers {
 
         // Forma 2 - Usa parãmetros nos construtores
            Hamburguer hamburguer = new Hamburguer(
-               Nome: form["hamburguer"]
+               Nome: form["hamburguer"],
+               Preco: hamburguerRepositorio.ObterPrecoDe(form["hamburguer"])
            );
 
            pedido.Hamburguer = hamburguer;
 
         //Forma 3 - Resumo da Forma 1 
             Shake shake = new Shake( ){
-                Nome = form["shake"]
+                Nome = form["shake"],
+                Preco = shakeRepositorio.ObterPrecoDe(form["shake"])
             };
             
             pedido.Shake = shake;
+
+            pedido.PrecoTotal = pedido.Hamburguer.Preco + pedido.Shake.Preco;
            
            Repositorio.Inserir(pedido);
+           ViewData["NomeView"] = "Pedido";
 
-           return RedirectToAction("Index", "Home");
+           return View("Sucesso");
+
         }
     }
 }
