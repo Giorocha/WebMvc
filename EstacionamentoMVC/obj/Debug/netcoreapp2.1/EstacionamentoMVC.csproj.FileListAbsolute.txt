@@ -1,0 +1,87 @@
+C:\Users\46309932829\Documents\Projetos\SENAI\EstacionamentoMVC\bin\Debug\netcoreapp2.1\EstacionamentoMVC.deps.json
+C:\Users\46309932829\Documents\Projetos\SENAI\EstacionamentoMVC\bin\Debug\netcoreapp2.1\EstacionamentoMVC.runtimeconfig.json
+C:\Users\46309932829\Documents\Projetos\SENAI\EstacionamentoMVC\bin\Debug\netcoreapp2.1\EstacionamentoMVC.runtimeconfig.dev.json
+C:\Users\46309932829\Documents\Projetos\SENAI\EstacionamentoMVC\bin\Debug\netcoreapp2.1\EstacionamentoMVC.dll
+C:\Users\46309932829\Documents\Projetos\SENAI\EstacionamentoMVC\bin\Debug\netcoreapp2.1\EstacionamentoMVC.pdb
+C:\Users\46309932829\Documents\Projetos\SENAI\EstacionamentoMVC\bin\Debug\netcoreapp2.1\EstacionamentoMVC.Views.dll
+C:\Users\46309932829\Documents\Projetos\SENAI\EstacionamentoMVC\bin\Debug\netcoreapp2.1\EstacionamentoMVC.Views.pdb
+C:\Users\46309932829\Documents\Projetos\SENAI\EstacionamentoMVC\obj\Debug\netcoreapp2.1\EstacionamentoMVC.csprojAssemblyReference.cache
+C:\Users\46309932829\Documents\Projetos\SENAI\EstacionamentoMVC\obj\Debug\netcoreapp2.1\EstacionamentoMVC.csproj.CoreCompileInputs.cache
+C:\Users\46309932829\Documents\Projetos\SENAI\EstacionamentoMVC\obj\Debug\netcoreapp2.1\EstacionamentoMVC.RazorAssemblyInfo.cache
+C:\Users\46309932829\Documents\Projetos\SENAI\EstacionamentoMVC\obj\Debug\netcoreapp2.1\EstacionamentoMVC.RazorAssemblyInfo.cs
+C:\Users\46309932829\Documents\Projetos\SENAI\EstacionamentoMVC\obj\Debug\netcoreapp2.1\EstacionamentoMVC.AssemblyInfoInputs.cache
+C:\Users\46309932829\Documents\Projetos\SENAI\EstacionamentoMVC\obj\Debug\netcoreapp2.1\EstacionamentoMVC.AssemblyInfo.cs
+C:\Users\46309932829\Documents\Projetos\SENAI\EstacionamentoMVC\obj\Debug\netcoreapp2.1\EstacionamentoMVC.TagHelpers.input.cache
+C:\Users\46309932829\Documents\Projetos\SENAI\EstacionamentoMVC\obj\Debug\netcoreapp2.1\EstacionamentoMVC.TagHelpers.output.cache
+C:\Users\46309932829\Documents\Projetos\SENAI\EstacionamentoMVC\obj\Debug\netcoreapp2.1\EstacionamentoMVC.RazorCoreGenerate.cache
+C:\Users\46309932829\Documents\Projetos\SENAI\EstacionamentoMVC\obj\Debug\netcoreapp2.1\Razor\Views\Carro\Index.g.cshtml.cs
+C:\Users\46309932829\Documents\Projetos\SENAI\EstacionamentoMVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\46309932829\Documents\Projetos\SENAI\EstacionamentoMVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\46309932829\Documents\Projetos\SENAI\EstacionamentoMVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\46309932829\Documents\Projetos\SENAI\EstacionamentoMVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\46309932829\Documents\Projetos\SENAI\EstacionamentoMVC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\46309932829\Documents\Projetos\SENAI\EstacionamentoMVC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\46309932829\Documents\Projetos\SENAI\EstacionamentoMVC\obj\Debug\netcoreapp2.1\EstacionamentoMVC.RazorTargetAssemblyInfo.cache
+C:\Users\46309932829\Documents\Projetos\SENAI\EstacionamentoMVC\obj\Debug\netcoreapp2.1\EstacionamentoMVC.RazorTargetAssemblyInfo.cs
+C:\Users\46309932829\Documents\Projetos\SENAI\EstacionamentoMVC\obj\Debug\netcoreapp2.1\EstacionamentoMVC.Views.pdb
+C:\Users\46309932829\Documents\Projetos\SENAI\EstacionamentoMVC\obj\Debug\netcoreapp2.1\EstacionamentoMVC.dll
+C:\Users\46309932829\Documents\Projetos\SENAI\EstacionamentoMVC\obj\Debug\netcoreapp2.1\EstacionamentoMVC.pdb
+C:\Users\46309932829\Documents\Projetos\SENAI\EstacionamentoMVC\obj\Debug\netcoreapp2.1\EstacionamentoMVC.csproj.CopyComplete
+C:\Users\43706052881\Documents\Aulas C#\WebMVC\ExerciciosMVC\EstacionamentoMVC\bin\Debug\netcoreapp2.1\EstacionamentoMVC.deps.json
+C:\Users\43706052881\Documents\Aulas C#\WebMVC\ExerciciosMVC\EstacionamentoMVC\bin\Debug\netcoreapp2.1\EstacionamentoMVC.runtimeconfig.json
+C:\Users\43706052881\Documents\Aulas C#\WebMVC\ExerciciosMVC\EstacionamentoMVC\bin\Debug\netcoreapp2.1\EstacionamentoMVC.runtimeconfig.dev.json
+C:\Users\43706052881\Documents\Aulas C#\WebMVC\ExerciciosMVC\EstacionamentoMVC\bin\Debug\netcoreapp2.1\EstacionamentoMVC.dll
+C:\Users\43706052881\Documents\Aulas C#\WebMVC\ExerciciosMVC\EstacionamentoMVC\bin\Debug\netcoreapp2.1\EstacionamentoMVC.pdb
+C:\Users\43706052881\Documents\Aulas C#\WebMVC\ExerciciosMVC\EstacionamentoMVC\bin\Debug\netcoreapp2.1\EstacionamentoMVC.Views.dll
+C:\Users\43706052881\Documents\Aulas C#\WebMVC\ExerciciosMVC\EstacionamentoMVC\bin\Debug\netcoreapp2.1\EstacionamentoMVC.Views.pdb
+C:\Users\43706052881\Documents\Aulas C#\WebMVC\ExerciciosMVC\EstacionamentoMVC\obj\Debug\netcoreapp2.1\EstacionamentoMVC.csprojAssemblyReference.cache
+C:\Users\43706052881\Documents\Aulas C#\WebMVC\ExerciciosMVC\EstacionamentoMVC\obj\Debug\netcoreapp2.1\EstacionamentoMVC.csproj.CoreCompileInputs.cache
+C:\Users\43706052881\Documents\Aulas C#\WebMVC\ExerciciosMVC\EstacionamentoMVC\obj\Debug\netcoreapp2.1\EstacionamentoMVC.RazorAssemblyInfo.cache
+C:\Users\43706052881\Documents\Aulas C#\WebMVC\ExerciciosMVC\EstacionamentoMVC\obj\Debug\netcoreapp2.1\EstacionamentoMVC.RazorAssemblyInfo.cs
+C:\Users\43706052881\Documents\Aulas C#\WebMVC\ExerciciosMVC\EstacionamentoMVC\obj\Debug\netcoreapp2.1\EstacionamentoMVC.AssemblyInfoInputs.cache
+C:\Users\43706052881\Documents\Aulas C#\WebMVC\ExerciciosMVC\EstacionamentoMVC\obj\Debug\netcoreapp2.1\EstacionamentoMVC.AssemblyInfo.cs
+C:\Users\43706052881\Documents\Aulas C#\WebMVC\ExerciciosMVC\EstacionamentoMVC\obj\Debug\netcoreapp2.1\EstacionamentoMVC.TagHelpers.input.cache
+C:\Users\43706052881\Documents\Aulas C#\WebMVC\ExerciciosMVC\EstacionamentoMVC\obj\Debug\netcoreapp2.1\EstacionamentoMVC.TagHelpers.output.cache
+C:\Users\43706052881\Documents\Aulas C#\WebMVC\ExerciciosMVC\EstacionamentoMVC\obj\Debug\netcoreapp2.1\EstacionamentoMVC.RazorCoreGenerate.cache
+C:\Users\43706052881\Documents\Aulas C#\WebMVC\ExerciciosMVC\EstacionamentoMVC\obj\Debug\netcoreapp2.1\Razor\Views\Carro\Index.g.cshtml.cs
+C:\Users\43706052881\Documents\Aulas C#\WebMVC\ExerciciosMVC\EstacionamentoMVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\43706052881\Documents\Aulas C#\WebMVC\ExerciciosMVC\EstacionamentoMVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\43706052881\Documents\Aulas C#\WebMVC\ExerciciosMVC\EstacionamentoMVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\43706052881\Documents\Aulas C#\WebMVC\ExerciciosMVC\EstacionamentoMVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\43706052881\Documents\Aulas C#\WebMVC\ExerciciosMVC\EstacionamentoMVC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\43706052881\Documents\Aulas C#\WebMVC\ExerciciosMVC\EstacionamentoMVC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\43706052881\Documents\Aulas C#\WebMVC\ExerciciosMVC\EstacionamentoMVC\obj\Debug\netcoreapp2.1\EstacionamentoMVC.RazorTargetAssemblyInfo.cache
+C:\Users\43706052881\Documents\Aulas C#\WebMVC\ExerciciosMVC\EstacionamentoMVC\obj\Debug\netcoreapp2.1\EstacionamentoMVC.RazorTargetAssemblyInfo.cs
+C:\Users\43706052881\Documents\Aulas C#\WebMVC\ExerciciosMVC\EstacionamentoMVC\obj\Debug\netcoreapp2.1\EstacionamentoMVC.Views.pdb
+C:\Users\43706052881\Documents\Aulas C#\WebMVC\ExerciciosMVC\EstacionamentoMVC\obj\Debug\netcoreapp2.1\EstacionamentoMVC.dll
+C:\Users\43706052881\Documents\Aulas C#\WebMVC\ExerciciosMVC\EstacionamentoMVC\obj\Debug\netcoreapp2.1\EstacionamentoMVC.pdb
+C:\Users\43706052881\Documents\Aulas C#\WebMVC\ExerciciosMVC\EstacionamentoMVC\obj\Debug\netcoreapp2.1\EstacionamentoMVC.csproj.CopyComplete
+C:\Users\43706052881\Documents\Sprint 4\Aulas C#\WebMVC\ExerciciosMVC\EstacionamentoMVC\bin\Debug\netcoreapp2.1\EstacionamentoMVC.deps.json
+C:\Users\43706052881\Documents\Sprint 4\Aulas C#\WebMVC\ExerciciosMVC\EstacionamentoMVC\bin\Debug\netcoreapp2.1\EstacionamentoMVC.runtimeconfig.json
+C:\Users\43706052881\Documents\Sprint 4\Aulas C#\WebMVC\ExerciciosMVC\EstacionamentoMVC\bin\Debug\netcoreapp2.1\EstacionamentoMVC.runtimeconfig.dev.json
+C:\Users\43706052881\Documents\Sprint 4\Aulas C#\WebMVC\ExerciciosMVC\EstacionamentoMVC\bin\Debug\netcoreapp2.1\EstacionamentoMVC.dll
+C:\Users\43706052881\Documents\Sprint 4\Aulas C#\WebMVC\ExerciciosMVC\EstacionamentoMVC\bin\Debug\netcoreapp2.1\EstacionamentoMVC.pdb
+C:\Users\43706052881\Documents\Sprint 4\Aulas C#\WebMVC\ExerciciosMVC\EstacionamentoMVC\bin\Debug\netcoreapp2.1\EstacionamentoMVC.Views.dll
+C:\Users\43706052881\Documents\Sprint 4\Aulas C#\WebMVC\ExerciciosMVC\EstacionamentoMVC\bin\Debug\netcoreapp2.1\EstacionamentoMVC.Views.pdb
+C:\Users\43706052881\Documents\Sprint 4\Aulas C#\WebMVC\ExerciciosMVC\EstacionamentoMVC\obj\Debug\netcoreapp2.1\EstacionamentoMVC.csprojAssemblyReference.cache
+C:\Users\43706052881\Documents\Sprint 4\Aulas C#\WebMVC\ExerciciosMVC\EstacionamentoMVC\obj\Debug\netcoreapp2.1\EstacionamentoMVC.csproj.CoreCompileInputs.cache
+C:\Users\43706052881\Documents\Sprint 4\Aulas C#\WebMVC\ExerciciosMVC\EstacionamentoMVC\obj\Debug\netcoreapp2.1\EstacionamentoMVC.RazorAssemblyInfo.cache
+C:\Users\43706052881\Documents\Sprint 4\Aulas C#\WebMVC\ExerciciosMVC\EstacionamentoMVC\obj\Debug\netcoreapp2.1\EstacionamentoMVC.RazorAssemblyInfo.cs
+C:\Users\43706052881\Documents\Sprint 4\Aulas C#\WebMVC\ExerciciosMVC\EstacionamentoMVC\obj\Debug\netcoreapp2.1\EstacionamentoMVC.AssemblyInfoInputs.cache
+C:\Users\43706052881\Documents\Sprint 4\Aulas C#\WebMVC\ExerciciosMVC\EstacionamentoMVC\obj\Debug\netcoreapp2.1\EstacionamentoMVC.AssemblyInfo.cs
+C:\Users\43706052881\Documents\Sprint 4\Aulas C#\WebMVC\ExerciciosMVC\EstacionamentoMVC\obj\Debug\netcoreapp2.1\EstacionamentoMVC.TagHelpers.input.cache
+C:\Users\43706052881\Documents\Sprint 4\Aulas C#\WebMVC\ExerciciosMVC\EstacionamentoMVC\obj\Debug\netcoreapp2.1\EstacionamentoMVC.TagHelpers.output.cache
+C:\Users\43706052881\Documents\Sprint 4\Aulas C#\WebMVC\ExerciciosMVC\EstacionamentoMVC\obj\Debug\netcoreapp2.1\EstacionamentoMVC.RazorCoreGenerate.cache
+C:\Users\43706052881\Documents\Sprint 4\Aulas C#\WebMVC\ExerciciosMVC\EstacionamentoMVC\obj\Debug\netcoreapp2.1\Razor\Views\Carro\Index.g.cshtml.cs
+C:\Users\43706052881\Documents\Sprint 4\Aulas C#\WebMVC\ExerciciosMVC\EstacionamentoMVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\43706052881\Documents\Sprint 4\Aulas C#\WebMVC\ExerciciosMVC\EstacionamentoMVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\43706052881\Documents\Sprint 4\Aulas C#\WebMVC\ExerciciosMVC\EstacionamentoMVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\43706052881\Documents\Sprint 4\Aulas C#\WebMVC\ExerciciosMVC\EstacionamentoMVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\43706052881\Documents\Sprint 4\Aulas C#\WebMVC\ExerciciosMVC\EstacionamentoMVC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\43706052881\Documents\Sprint 4\Aulas C#\WebMVC\ExerciciosMVC\EstacionamentoMVC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\43706052881\Documents\Sprint 4\Aulas C#\WebMVC\ExerciciosMVC\EstacionamentoMVC\obj\Debug\netcoreapp2.1\EstacionamentoMVC.RazorTargetAssemblyInfo.cache
+C:\Users\43706052881\Documents\Sprint 4\Aulas C#\WebMVC\ExerciciosMVC\EstacionamentoMVC\obj\Debug\netcoreapp2.1\EstacionamentoMVC.RazorTargetAssemblyInfo.cs
+C:\Users\43706052881\Documents\Sprint 4\Aulas C#\WebMVC\ExerciciosMVC\EstacionamentoMVC\obj\Debug\netcoreapp2.1\EstacionamentoMVC.Views.pdb
+C:\Users\43706052881\Documents\Sprint 4\Aulas C#\WebMVC\ExerciciosMVC\EstacionamentoMVC\obj\Debug\netcoreapp2.1\EstacionamentoMVC.dll
+C:\Users\43706052881\Documents\Sprint 4\Aulas C#\WebMVC\ExerciciosMVC\EstacionamentoMVC\obj\Debug\netcoreapp2.1\EstacionamentoMVC.pdb
+C:\Users\43706052881\Documents\Sprint 4\Aulas C#\WebMVC\ExerciciosMVC\EstacionamentoMVC\obj\Debug\netcoreapp2.1\EstacionamentoMVC.csproj.CopyComplete

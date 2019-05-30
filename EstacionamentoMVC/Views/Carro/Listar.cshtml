@@ -1,0 +1,28 @@
+@using EstacionamentoMVC.Models
+@{
+    Layout ="_Layout";
+    ViewBag.Title = "Lista de Cadastro";
+}
+
+<div class="container">
+    <br>
+    <table class="table">
+    <table class= "table table -striped">
+        <thead class="thead-dark">
+            <tr>
+                <th>ID</th>
+                <th>Nome</th>
+                <th>Placa</th>
+                <th>Marca</th>
+                <th>Modelo</th>
+            </tr>
+        </thead>
+        <tbody>
+          @forech(var item in ViewData["registro"] as List<Registo>){
+
+          }
+        </tbody>
+        </table>
+    </table>
+
+</div>
